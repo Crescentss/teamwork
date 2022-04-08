@@ -45,9 +45,9 @@ git push origin master
 ***李雨***
 1.	打开组长的github链接点击‘fork’，将远程仓库teamwork复制到自己的github中。
 1.  在本地clone远程仓库teamwork。
-'''
+```
 git clone git@github.com:LiYu0105/teamwork.git
-'''
+```
 3. 在本地打开文件进行修改并保存。
 4. 将修改过后的文件传入仓库。
 ```
